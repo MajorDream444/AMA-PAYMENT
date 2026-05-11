@@ -1,0 +1,625 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "create_stripe_howlingmune_payment_links.py",
+      "file_type": "code",
+      "source_file": "create_stripe_howlingmune_payment_links.py",
+      "source_location": "L1",
+      "id": "create_stripe_howlingmune_payment_links_py",
+      "community": 5,
+      "norm_label": "create_stripe_howlingmune_payment_links.py"
+    },
+    {
+      "label": "HOWLING MUNE \u2014 Stripe Payment Link Creator =====================================",
+      "file_type": "rationale",
+      "source_file": "create_stripe_howlingmune_payment_links.py",
+      "source_location": "L1",
+      "id": "ama_payment_create_stripe_howlingmune_payment_links_rationale_1",
+      "community": 5,
+      "norm_label": "howling mune \u2014 stripe payment link creator ====================================="
+    },
+    {
+      "label": "create_stripe_payment_links.py",
+      "file_type": "code",
+      "source_file": "create_stripe_payment_links.py",
+      "source_location": "L1",
+      "id": "create_stripe_payment_links_py",
+      "community": 6,
+      "norm_label": "create_stripe_payment_links.py"
+    },
+    {
+      "label": "HOWLING MUNE \u2014 Stripe Payment Link Creator =====================================",
+      "file_type": "rationale",
+      "source_file": "create_stripe_payment_links.py",
+      "source_location": "L1",
+      "id": "ama_payment_create_stripe_payment_links_rationale_1",
+      "community": 6,
+      "norm_label": "howling mune \u2014 stripe payment link creator ====================================="
+    },
+    {
+      "label": "create_payment_links.py",
+      "file_type": "code",
+      "source_file": "create_payment_links.py",
+      "source_location": "L1",
+      "id": "create_payment_links_py",
+      "community": 7,
+      "norm_label": "create_payment_links.py"
+    },
+    {
+      "label": "HOWLING MUNE \u2014 Stripe Payment Link Creator =====================================",
+      "file_type": "rationale",
+      "source_file": "create_payment_links.py",
+      "source_location": "L1",
+      "id": "ama_payment_create_payment_links_rationale_1",
+      "community": 7,
+      "norm_label": "howling mune \u2014 stripe payment link creator ====================================="
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "readme_md",
+      "community": 2,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "AMA-PAYMENT",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "id": "ama_payment_readme_ama_payment",
+      "community": 2,
+      "norm_label": "ama-payment"
+    },
+    {
+      "label": "Stripe Payment Scripts",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L5",
+      "id": "ama_payment_readme_stripe_payment_scripts",
+      "community": 2,
+      "norm_label": "stripe payment scripts"
+    },
+    {
+      "label": "code:bash (export STRIPE_SECRET_KEY=\"sk_live_...\")",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L11",
+      "id": "ama_payment_readme_codeblock_1",
+      "community": 2,
+      "norm_label": "code:bash (export stripe_secret_key=\"sk_live_...\")"
+    },
+    {
+      "label": "Graphify Context",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L18",
+      "id": "ama_payment_readme_graphify_context",
+      "community": 2,
+      "norm_label": "graphify context"
+    },
+    {
+      "label": "code:bash (uv tool install graphifyy && graphify install)",
+      "file_type": "document",
+      "source_file": "README.md",
+      "source_location": "L28",
+      "id": "ama_payment_readme_codeblock_2",
+      "community": 2,
+      "norm_label": "code:bash (uv tool install graphifyy && graphify install)"
+    },
+    {
+      "label": "AGENTS.md",
+      "file_type": "document",
+      "source_file": "AGENTS.md",
+      "source_location": "L1",
+      "id": "agents_md",
+      "community": 3,
+      "norm_label": "agents.md"
+    },
+    {
+      "label": "Global Codex Operating Context",
+      "file_type": "document",
+      "source_file": "AGENTS.md",
+      "source_location": "L1",
+      "id": "ama_payment_agents_global_codex_operating_context",
+      "community": 3,
+      "norm_label": "global codex operating context"
+    },
+    {
+      "label": "Graphify Context Layer",
+      "file_type": "document",
+      "source_file": "AGENTS.md",
+      "source_location": "L3",
+      "id": "ama_payment_agents_graphify_context_layer",
+      "community": 3,
+      "norm_label": "graphify context layer"
+    },
+    {
+      "label": "Important Boundary",
+      "file_type": "document",
+      "source_file": "AGENTS.md",
+      "source_location": "L20",
+      "id": "ama_payment_agents_important_boundary",
+      "community": 3,
+      "norm_label": "important boundary"
+    },
+    {
+      "label": "README.md",
+      "file_type": "document",
+      "source_file": "plugins/graphify-context/README.md",
+      "source_location": "L1",
+      "id": "plugins_graphify_context_readme_md",
+      "community": 0,
+      "norm_label": "readme.md"
+    },
+    {
+      "label": "Graphify Context Plugin",
+      "file_type": "document",
+      "source_file": "plugins/graphify-context/README.md",
+      "source_location": "L1",
+      "id": "graphify_context_readme_graphify_context_plugin",
+      "community": 0,
+      "norm_label": "graphify context plugin"
+    },
+    {
+      "label": "What It Provides",
+      "file_type": "document",
+      "source_file": "plugins/graphify-context/README.md",
+      "source_location": "L5",
+      "id": "graphify_context_readme_what_it_provides",
+      "community": 0,
+      "norm_label": "what it provides"
+    },
+    {
+      "label": "Install Graphify",
+      "file_type": "document",
+      "source_file": "plugins/graphify-context/README.md",
+      "source_location": "L11",
+      "id": "graphify_context_readme_install_graphify",
+      "community": 0,
+      "norm_label": "install graphify"
+    },
+    {
+      "label": "code:bash (uv tool install graphifyy && graphify install)",
+      "file_type": "document",
+      "source_file": "plugins/graphify-context/README.md",
+      "source_location": "L15",
+      "id": "graphify_context_readme_codeblock_1",
+      "community": 0,
+      "norm_label": "code:bash (uv tool install graphifyy && graphify install)"
+    },
+    {
+      "label": "code:bash (graphify codex install)",
+      "file_type": "document",
+      "source_file": "plugins/graphify-context/README.md",
+      "source_location": "L23",
+      "id": "graphify_context_readme_codeblock_2",
+      "community": 0,
+      "norm_label": "code:bash (graphify codex install)"
+    },
+    {
+      "label": "Helper Scripts",
+      "file_type": "document",
+      "source_file": "plugins/graphify-context/README.md",
+      "source_location": "L27",
+      "id": "graphify_context_readme_helper_scripts",
+      "community": 0,
+      "norm_label": "helper scripts"
+    },
+    {
+      "label": "code:bash (plugins/graphify-context/scripts/check_graphify.sh)",
+      "file_type": "document",
+      "source_file": "plugins/graphify-context/README.md",
+      "source_location": "L29",
+      "id": "graphify_context_readme_codeblock_3",
+      "community": 0,
+      "norm_label": "code:bash (plugins/graphify-context/scripts/check_graphify.sh)"
+    },
+    {
+      "label": "Boundary",
+      "file_type": "document",
+      "source_file": "plugins/graphify-context/README.md",
+      "source_location": "L34",
+      "id": "graphify_context_readme_boundary",
+      "community": 0,
+      "norm_label": "boundary"
+    },
+    {
+      "label": "SKILL.md",
+      "file_type": "document",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L1",
+      "id": "plugins_graphify_context_skills_graphify_context_skill_md",
+      "community": 1,
+      "norm_label": "skill.md"
+    },
+    {
+      "label": "Graphify Context",
+      "file_type": "document",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L6",
+      "id": "graphify_context_skill_graphify_context",
+      "community": 1,
+      "norm_label": "graphify context"
+    },
+    {
+      "label": "Trigger",
+      "file_type": "document",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L10",
+      "id": "graphify_context_skill_trigger",
+      "community": 1,
+      "norm_label": "trigger"
+    },
+    {
+      "label": "First-Pass Context",
+      "file_type": "document",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L21",
+      "id": "graphify_context_skill_first_pass_context",
+      "community": 1,
+      "norm_label": "first-pass context"
+    },
+    {
+      "label": "code:bash (graphify query \"<question>\")",
+      "file_type": "document",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L27",
+      "id": "graphify_context_skill_codeblock_1",
+      "community": 1,
+      "norm_label": "code:bash (graphify query \"<question>\")"
+    },
+    {
+      "label": "Update Rule",
+      "file_type": "document",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L36",
+      "id": "graphify_context_skill_update_rule",
+      "community": 1,
+      "norm_label": "update rule"
+    },
+    {
+      "label": "code:bash (graphify update .)",
+      "file_type": "document",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L40",
+      "id": "graphify_context_skill_codeblock_2",
+      "community": 1,
+      "norm_label": "code:bash (graphify update .)"
+    },
+    {
+      "label": "Install Helpers",
+      "file_type": "document",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L46",
+      "id": "graphify_context_skill_install_helpers",
+      "community": 4,
+      "norm_label": "install helpers"
+    },
+    {
+      "label": "code:bash (uv tool install graphifyy && graphify install)",
+      "file_type": "document",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L50",
+      "id": "graphify_context_skill_codeblock_3",
+      "community": 4,
+      "norm_label": "code:bash (uv tool install graphifyy && graphify install)"
+    },
+    {
+      "label": "code:bash (graphify codex install)",
+      "file_type": "document",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L58",
+      "id": "graphify_context_skill_codeblock_4",
+      "community": 4,
+      "norm_label": "code:bash (graphify codex install)"
+    },
+    {
+      "label": "Safety Boundary",
+      "file_type": "document",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L62",
+      "id": "graphify_context_skill_safety_boundary",
+      "community": 1,
+      "norm_label": "safety boundary"
+    }
+  ],
+  "links": [
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "create_stripe_howlingmune_payment_links.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "ama_payment_create_stripe_howlingmune_payment_links_rationale_1",
+      "target": "create_stripe_howlingmune_payment_links_py"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "create_stripe_payment_links.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "ama_payment_create_stripe_payment_links_rationale_1",
+      "target": "create_stripe_payment_links_py"
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "create_payment_links.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "ama_payment_create_payment_links_rationale_1",
+      "target": "create_payment_links_py"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "readme_md",
+      "target": "ama_payment_readme_ama_payment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "ama_payment_readme_ama_payment",
+      "target": "ama_payment_readme_stripe_payment_scripts",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L18",
+      "weight": 1.0,
+      "source": "ama_payment_readme_ama_payment",
+      "target": "ama_payment_readme_graphify_context",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "ama_payment_readme_stripe_payment_scripts",
+      "target": "ama_payment_readme_codeblock_1",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "README.md",
+      "source_location": "L28",
+      "weight": 1.0,
+      "source": "ama_payment_readme_graphify_context",
+      "target": "ama_payment_readme_codeblock_2",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AGENTS.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "agents_md",
+      "target": "ama_payment_agents_global_codex_operating_context"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AGENTS.md",
+      "source_location": "L3",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "ama_payment_agents_global_codex_operating_context",
+      "target": "ama_payment_agents_graphify_context_layer"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "AGENTS.md",
+      "source_location": "L20",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "ama_payment_agents_global_codex_operating_context",
+      "target": "ama_payment_agents_important_boundary"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "plugins/graphify-context/README.md",
+      "source_location": "L1",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plugins_graphify_context_readme_md",
+      "target": "graphify_context_readme_graphify_context_plugin"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "plugins/graphify-context/README.md",
+      "source_location": "L5",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_context_readme_graphify_context_plugin",
+      "target": "graphify_context_readme_what_it_provides"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "plugins/graphify-context/README.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_context_readme_graphify_context_plugin",
+      "target": "graphify_context_readme_install_graphify"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "plugins/graphify-context/README.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_context_readme_graphify_context_plugin",
+      "target": "graphify_context_readme_helper_scripts"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "plugins/graphify-context/README.md",
+      "source_location": "L34",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_context_readme_graphify_context_plugin",
+      "target": "graphify_context_readme_boundary"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "plugins/graphify-context/README.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_context_readme_install_graphify",
+      "target": "graphify_context_readme_codeblock_1"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "plugins/graphify-context/README.md",
+      "source_location": "L23",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_context_readme_install_graphify",
+      "target": "graphify_context_readme_codeblock_2"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "plugins/graphify-context/README.md",
+      "source_location": "L29",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_context_readme_helper_scripts",
+      "target": "graphify_context_readme_codeblock_3"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L6",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "plugins_graphify_context_skills_graphify_context_skill_md",
+      "target": "graphify_context_skill_graphify_context"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_context_skill_graphify_context",
+      "target": "graphify_context_skill_trigger"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L21",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_context_skill_graphify_context",
+      "target": "graphify_context_skill_first_pass_context"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L36",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_context_skill_graphify_context",
+      "target": "graphify_context_skill_update_rule"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L46",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_context_skill_graphify_context",
+      "target": "graphify_context_skill_install_helpers"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L62",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_context_skill_graphify_context",
+      "target": "graphify_context_skill_safety_boundary"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L27",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_context_skill_first_pass_context",
+      "target": "graphify_context_skill_codeblock_1"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L40",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_context_skill_update_rule",
+      "target": "graphify_context_skill_codeblock_2"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L50",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_context_skill_install_helpers",
+      "target": "graphify_context_skill_codeblock_3"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "plugins/graphify-context/skills/graphify-context/SKILL.md",
+      "source_location": "L58",
+      "weight": 1.0,
+      "confidence_score": 1.0,
+      "source": "graphify_context_skill_install_helpers",
+      "target": "graphify_context_skill_codeblock_4"
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "237edcfddd0e4d04982431afe9696dfb6b6e65e3"
+}

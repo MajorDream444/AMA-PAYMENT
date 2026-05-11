@@ -1,0 +1,41 @@
+{
+  "name": "graphify-context",
+  "version": "0.1.0",
+  "description": "Standing Codex context layer for Graphify-backed repository maps.",
+  "author": {
+    "name": "Major Dream Williams",
+    "email": "local-only@example.com",
+    "url": "https://github.com/safishamsi/graphify"
+  },
+  "homepage": "https://github.com/safishamsi/graphify",
+  "repository": "https://github.com/safishamsi/graphify.git",
+  "license": "MIT",
+  "keywords": [
+    "graphify",
+    "context",
+    "codex",
+    "codebase-map"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Graphify Context",
+    "shortDescription": "Read Graphify maps before broad repo work.",
+    "longDescription": "A local-only Codex plugin that keeps Graphify as the first-pass context layer for architecture questions, cross-module reasoning, and multi-file edits while preserving local files as the source of truth.",
+    "developerName": "Major Dream Williams",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Read",
+      "Analyze",
+      "Local"
+    ],
+    "websiteURL": "https://github.com/safishamsi/graphify",
+    "privacyPolicyURL": "https://github.com/safishamsi/graphify",
+    "termsOfServiceURL": "https://github.com/safishamsi/graphify",
+    "defaultPrompt": [
+      "Use Graphify context before explaining this repo.",
+      "Query Graphify before this multi-file edit.",
+      "Update the Graphify map after these changes."
+    ],
+    "brandColor": "#2563EB"
+  }
+}

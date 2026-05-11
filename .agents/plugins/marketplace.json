@@ -1,0 +1,20 @@
+{
+  "name": "ama-payment-local",
+  "interface": {
+    "displayName": "AMA Payment Local Plugins"
+  },
+  "plugins": [
+    {
+      "name": "graphify-context",
+      "source": {
+        "source": "local",
+        "path": "./plugins/graphify-context"
+      },
+      "policy": {
+        "installation": "INSTALLED_BY_DEFAULT",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}
